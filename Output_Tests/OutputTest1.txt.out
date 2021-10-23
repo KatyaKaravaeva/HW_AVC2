@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+1: Fish: name = Haddock, weight = 12, type = RIVER. Quotient = 57.166667.
+2: Fish: name = Ruffe, weight = 43, type = RIVER. Quotient = 11.720930.
+3: Fish: name = Tuna, weight = 7, type = LAKE. Quotient = 58.285714.
+4: Fish: name = Vobla, weight = 54, type = LAKE. Quotient = 9.259259.
+5: Fish: name = Grouper, weight = 23, type = RIVER. Quotient = 32.173913.

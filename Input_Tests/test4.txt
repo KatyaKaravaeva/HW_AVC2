@@ -1,0 +1,7 @@
+0 Woodcock 24 1
+1 Hen 34 1
+1 Horse 45 0
+2 Сapelin 7 0
+0 Sparrow 25 2
+1 Donkey 14 2
+2 Vobla 56 0

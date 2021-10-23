@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 elements.
+1: Bird: name = Сapelin, weight = 7, flyOrStay = TRUE , Quotient = 70.000000.
+2: Beast: name = Donkey, weight = 14, type = INSECTIVORES. Quotient = 44.142857.
+3: Fish: name = Woodcock, weight = 24, type = RIVER. Quotient = 34.375000.
+4: Fish: name = Sparrow, weight = 25, type = SEA. Quotient = 30.000000.
+5: Beast: name = Horse, weight = 45, type = PREDATORS. Quotient = 11.400000.
+6: Bird: name = Vobla, weight = 56, flyOrStay = TRUE , Quotient = 8.928571.
+7: Beast: name = Hen, weight = 34, type = HERBIVORES. Quotient = 8.323529.

@@ -1,0 +1,5 @@
+0 Haddock 12 1
+0 Ruffe 43 1
+0 Tuna 7 0
+0 Vobla 54 0
+0 Grouper 23 1

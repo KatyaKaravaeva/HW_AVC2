@@ -1,0 +1,9 @@
+Filled container:
+Container contains 7 elements.
+1: Beast: name = Mouse, weight = 34, type = INSECTIVORES. Quotient = 15.323529.
+2: Fish: name = Stork, weight = 23, type = RIVER. Quotient = 23.086957.
+3: Bird: name = Grouper, weight = 56, flyOrStay = FALSE , Quotient = 13.214286.
+4: Fish: name = Cormorant, weight = 34, type = LAKE. Quotient = 27.911765.
+5: Beast: name = Sheep, weight = 45, type = HERBIVORES. Quotient = 11.133333.
+6: Beast: name = Hen, weight = 54, type = HERBIVORES. Quotient = 5.240741.
+7: Beast: name = Rabbit, weight = 23, type = PREDATORS. Quotient = 25.913043.

@@ -1,0 +1,7 @@
+1 Mouse 34 2
+0 Stork 23 1
+2 Grouper 56 1
+0 Cormorant 34 0
+1 Sheep 45 1
+1 Hen 54 1
+1 Rabbit 23 0

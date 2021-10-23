@@ -1,0 +1,10 @@
+Filled container:
+Container contains 8 elements.
+1: Bird: name = stork, weight = 23, flyOrStay = FALSE , Quotient = 24.478261.
+2: Bird: name = cormorant, weight = 12, flyOrStay = TRUE , Quotient = 81.750000.
+3: Bird: name = albatross, weight = 54, flyOrStay = FALSE , Quotient = 17.981481.
+4: Bird: name = snipe, weight = 25, flyOrStay = TRUE , Quotient = 21.720000.
+5: Bird: name = woodcock, weight = 38, flyOrStay = FALSE , Quotient = 22.552632.
+6: Bird: name = sparrow, weight = 18, flyOrStay = TRUE , Quotient = 43.444444.
+7: Bird: name = raven, weight = 19, flyOrStay = FALSE , Quotient = 28.421053.
+8: Bird: name = crow, weight = 48, flyOrStay = FALSE , Quotient = 9.229167.

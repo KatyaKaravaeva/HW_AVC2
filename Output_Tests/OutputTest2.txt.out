@@ -1,0 +1,9 @@
+Filled container:
+Container contains 7 elements.
+1: Beast: name = Pig, weight = 23, type = HERBIVORES. Quotient = 12.521739.
+2: Beast: name = Rabbit, weight = 23, type = PREDATORS. Quotient = 25.913043.
+3: Beast: name = Mouse, weight = 24, type = INSECTIVORES. Quotient = 21.708333.
+4: Beast: name = Sheep, weight = 41, type = HERBIVORES. Quotient = 12.219512.
+5: Beast: name = Hen, weight = 23, type = HERBIVORES. Quotient = 12.304348.
+6: Beast: name = Horse, weight = 34, type = PREDATORS. Quotient = 15.088235.
+7: Beast: name = Hamster, weight = 34, type = INSECTIVORES. Quotient = 21.294118.
